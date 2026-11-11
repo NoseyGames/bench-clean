@@ -4,6 +4,10 @@ A Windows utility that opens a private dashboard on `127.0.0.1`. Review optional
 
 **Early release:** inventory, monitoring, storage scanning, request security, and browser behavior have been checked locally. Real app removal has **not** been exercised on a disposable Windows installation yet. Review the removal list and save app data before using uninstall.
 
+## Download
+
+Get **BenchClean.exe** from the [early-release downloads](https://github.com/NoseyGames/bench-clean/releases/tag/v0.1.0). Run it as your normal Windows user; Python is bundled. The executable is unsigned. Its SHA-256 checksum is included with the release.
+
 ## Run from source
 
 1. Install **Python 3.12 or newer** from [python.org](https://www.python.org/downloads/windows/), including the Python launcher.
